@@ -2,3 +2,4 @@ aiogram==3.13.0
 yt-dlp
 shazamio
 python-dotenv
+requests
